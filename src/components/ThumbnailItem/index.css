@@ -1,0 +1,17 @@
+/* Write your code here. */
+.list-container {
+  list-style-type: none;
+}
+.img-to-list {
+  width: 100%;
+  height: 100%;
+}
+.button-style {
+  border-width: 0px;
+  background-color: #ffffff;
+  cursor: pointer;
+  opacity: 0.5;
+}
+.image-opacity {
+  opacity: 1;
+}
